@@ -1,18 +1,36 @@
 PREVIEW
 MARKDOWN
 COPY
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adegbusi Victor
-=======================================================================================================================================
+# 👋 Hi there! 
+![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Developer,Student.
-------------------
+## I'm Adegbusi Victor
+### 🎨 Developer | 🎓 Student
 
-Victor is a web , 3d game/animation developer
+---
 
-* 🌍  I'm based in Nigeria
-* 🧠  I'm learning \*React \*C++ \*Phyton
-* 🤝  I'm open to collaborating on Group projects on 3dgame dev/animation ,web dev and
-* ⚡  I am a artist
+🌍 **Location:** Nigeria  
+🧠 **Currently Learning:** React, C++, Python  
+🤝 **Collaboration:** Open to group projects in 3D game development, animation, and web development  
+⚡ **Fun Fact:** I am also an artist!
+
+---
+
+### 🌟 Skills
+- **Web Development:** HTML, CSS, JavaScript
+- **3D Game Development:** Unity, Blender
+- **Animation:** 3D modeling and animation techniques
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourprofile)  
+- [Portfolio](https://yourportfolio.com)  
+
+---
+
+### 🚀 Let's Create Something Amazing Together!
 
 <!---
 Victorsano/Victorsano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
